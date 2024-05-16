@@ -23,7 +23,7 @@ yarn install
 yarn run
 ```
 
-## build ruby.wasm
+## OPTIONAL build ruby.wasm
 Not necessary, because ruby-app.wasm comes included.
 
 ```
