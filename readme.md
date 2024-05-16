@@ -1,7 +1,7 @@
 # Ruby.wasm Template without requirements 
 This is a template for a ruby.wasm app without any requirements.
 
-Just edit main.rb and index.html with your own code.
+Just edit [main.rb](https://github.com/Largo/rubyWasmTemplate/blob/main/require/main.rb) and [index.html](https://github.com/Largo/rubyWasmTemplate/blob/main/index.html) with your own code.
 
 ## How to run 
 
