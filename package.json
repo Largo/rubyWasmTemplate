@@ -1,0 +1,13 @@
+{
+  "name": "PsychometricStudyVideoPlayer",
+  "version": "1.0.0",
+  "description": "customized video player for special video analysis",
+  "main": "main.js",
+  "repository": "https://github.com/Largo/PsychometricStudyVideoPlayer.git",
+  "author": "Andi <largo@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  }
+}
