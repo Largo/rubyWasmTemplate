@@ -8,7 +8,7 @@ Just edit [main.rb](https://github.com/Largo/rubyWasmTemplate/blob/main/require/
 ### webserver:
 
 ```
-git clone https://github.com/Largo/PsychometricStudyVideoPlayer
+git clone https://github.com/Largo/rubyWasmTemplate
 ./serve.sh
 ```
 
@@ -27,8 +27,8 @@ yarn run
 Not necessary, because ruby-app.wasm comes included.
 
 ```
-git clone https://github.com/Largo/PsychometricStudyVideoPlayer
-cd PsychometricStudyVideoPlayer
+git clone https://github.com/Largo/rubyWasmTemplate
+cd rubyWasmTemplate
 git clone https://github.com/largo/ruby.wasm
 ./build.sh
 ```
